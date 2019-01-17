@@ -1,0 +1,6 @@
+<ul>
+<li>Product Type: Shoe</li>
+<li>Color: Blue and white</li>
+<li>Main Material: Synthetic Fabric</li>
+<li>Stylish and Fashionable</li>
+</ul>

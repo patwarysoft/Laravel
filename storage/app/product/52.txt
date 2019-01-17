@@ -1,0 +1,11 @@
+<p>Anonna Fashion is a famous brand who sells Indian Original Saree and various items at a lower cost. This helps customers to get all of their expected products at a reasonable price. They have been running their business very successfully. Their products assure quality as their top priority is customer satisfaction through their products and service.<br />Material of saree is Georgette and Blouse Piece is Un-stitched. Body color Magenta with black and golden color designed.</p>
+<div class="list -features">
+<div class="title">&nbsp;</div>
+<ul>
+<li>Product Type: Saree</li>
+<li>Color: Red</li>
+<li>Main Material: Georgette</li>
+<li>Gender: Women</li>
+<li>Blouse: Un-stitched Blouse Piece</li>
+</ul>
+</div>

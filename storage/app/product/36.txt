@@ -1,0 +1,8 @@
+<ul>
+<li>High quality&nbsp;</li>
+<li>GSM Quad-band frequency (global use)</li>
+<li>GSM Frequency: 900/1800MHz or 850/1900MHz</li>
+<li>Wide input voltage range: DC9-24V</li>
+<li>Build-in vibration sensor</li>
+<li>Smart, anti-theft</li>
+</ul>

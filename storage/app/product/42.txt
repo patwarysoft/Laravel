@@ -1,0 +1,11 @@
+<ul>
+<li>Product Type: Shirt</li>
+<li>Color: Blue</li>
+<li>Main Material: Cotton</li>
+<li>Gender: Men</li>
+<li>
+<div class="osh-row ">
+<div class="osh-col -head">Composition: 50% Silk And 50% Cotton</div>
+</div>
+</li>
+</ul>

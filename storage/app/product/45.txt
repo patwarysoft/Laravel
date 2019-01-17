@@ -1,0 +1,8 @@
+<ul>
+<li>DC Motor: 3.0HP (Continuous)/4.0 HP(Peak)</li>
+<li>Screen: LCD window</li>
+<li>Speed range: 1-20km/h</li>
+<li>Motor incline: 0-15%</li>
+<li>Running surface:1350*470mm</li>
+<li>Maximum users weight: 150kg</li>
+</ul>

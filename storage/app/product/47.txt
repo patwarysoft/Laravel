@@ -1,0 +1,9 @@
+<ul>
+<li>Product Type: Wallet</li>
+<li>Main Material: Leather</li>
+<li>Gender: Men</li>
+<li>Color: Brown</li>
+<li>Good quality product</li>
+<li>Length: 4"</li>
+<li>Width: 5"</li>
+</ul>

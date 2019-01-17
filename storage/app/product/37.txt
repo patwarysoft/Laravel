@@ -1,0 +1,7 @@
+<ul>
+<li>Product Type: Top</li>
+<li>Main Material: Synthetic</li>
+<li>Color: Sky Blue</li>
+<li>Stylish and Fashionable</li>
+<li>Gender: Women</li>
+</ul>

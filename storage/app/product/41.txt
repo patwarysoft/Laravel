@@ -1,0 +1,7 @@
+<ul>
+<li>Product Type: Scarf</li>
+<li>Color: Multi Color</li>
+<li>Gender: Women</li>
+<li>Best Quality Product</li>
+<li>Standard and Smart Design</li>
+</ul>

@@ -1,0 +1,8 @@
+<ul>
+<li>Battery type: Lithium polymer battery</li>
+<li>Powerbank Capacity: 10000mAh</li>
+<li>Powerbank Features: Fast Charging</li>
+<li>Size (L x W x H cm): 13 x 7.1 x 1.41</li>
+<li>Input voltage: 12V/9V/5V</li>
+<li>Output voltage: 12V/9V/5V</li>
+</ul>

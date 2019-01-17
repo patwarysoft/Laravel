@@ -1,0 +1,7 @@
+<ul>
+<li>Product Type: Jacket</li>
+<li>Color: Black</li>
+<li>Main Material: Cotton</li>
+<li>Brand: Dhaka Fashion</li>
+<li>Gender: Men</li>
+</ul>

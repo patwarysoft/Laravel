@@ -1,0 +1,7 @@
+<ul>
+<li>Product Type: T-shirt</li>
+<li>Color: Coral</li>
+<li>Main Material: Cotton</li>
+<li>Gender: Girls</li>
+<li>Chest Print</li>
+</ul>

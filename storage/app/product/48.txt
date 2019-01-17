@@ -1,0 +1,6 @@
+<ul>
+<li>Product Type: Shoe For Baby</li>
+<li>Color: Pink</li>
+<li>Main Material: PU Leather</li>
+<li>Special Featrues: Anti-Slip</li>
+</ul>

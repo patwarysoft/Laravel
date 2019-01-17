@@ -1,0 +1,11 @@
+<ul>
+<li>Product Type: T-Shirt</li>
+<li>Color: White</li>
+<li>Main Material: Cotton</li>
+<li>Gender: Men</li>
+<li>
+<div class="osh-row ">
+<div class="osh-col -head">Weight (kg): 0.1</div>
+</div>
+</li>
+</ul>

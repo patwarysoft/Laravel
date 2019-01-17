@@ -1,0 +1,7 @@
+<ul>
+<li>Product Type: Party Dress</li>
+<li>Color: Baby Red</li>
+<li>Main Material: Cotton</li>
+<li>Gender: Girls</li>
+<li>Suitable for 4 years Old Children</li>
+</ul>

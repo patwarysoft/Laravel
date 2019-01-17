@@ -1,0 +1,8 @@
+<div class="list -features">
+<ul>
+<li>Product Type: Gold Plated Jewelry Set</li>
+<li>Color: Golden</li>
+<li>Main Material: Alloy</li>
+<li>Gender: Women</li>
+</ul>
+</div>

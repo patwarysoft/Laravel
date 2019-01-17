@@ -1,0 +1,8 @@
+<ul>
+<li>Product Type: Tie</li>
+<li>Main Material: Polyester</li>
+<li>Color: Multicolor</li>
+<li>Gender: Men</li>
+<li>Perfect wear for formal occasions</li>
+<li>Soft and comfortable to wear</li>
+</ul>

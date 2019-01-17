@@ -1,0 +1,6 @@
+<ul>
+<li>Product Type: Moccasin Shoe</li>
+<li>Color: Tan</li>
+<li>Main Material: Synthetic</li>
+<li>Gender: Women</li>
+</ul>

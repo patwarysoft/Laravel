@@ -1,0 +1,7 @@
+<ul>
+<li>Product Type: Hand Bag</li>
+<li>Color: Sienna</li>
+<li>Gender: Women</li>
+<li>Main Material: Artificial Leather</li>
+<li>Country Of Origin: China</li>
+</ul>
